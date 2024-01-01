@@ -7,3 +7,6 @@
 //
 
 import Foundation
+struct RateModel:Codable {
+    let rate:Double
+}
